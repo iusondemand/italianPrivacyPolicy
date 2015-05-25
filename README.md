@@ -10,3 +10,6 @@ Questo progetto è ancora in fase alpha, quindi consigliamo di non integrare anc
 ## Come contribuire
 Questo gruppo di sviluppo è aperto a chiunque sia intenzionato a dare il suo contributo.<br>
 Se vuoi farne parte, fai una richiesta in [questo ticket](https://github.com/FattiDiCookies/italianPrivacyPolicy/issues/1) e ti aggiungeremo al team. 
+
+## La licenza
+E' stata proposta la MIT perche' piu' ampia e permette di fare qualsiasi cosa.
