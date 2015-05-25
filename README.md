@@ -26,9 +26,9 @@ Il testo sara' composto di tre parti, possibilmente anche .json per il riutilizz
 1. quando e' dovuta
 2. testo informativa in moduli
 
-##### parte generale
-##### parte browser
-##### parte servizi terzi
+##### b.2.1 parte generale
+##### b.2.2 parte browser
+##### b.2.3 parte servizi terzi
 
 
 #### C. consensi, blocco, preventivo
