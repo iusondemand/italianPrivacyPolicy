@@ -36,4 +36,7 @@ Il testo sara' composto di tre parti, possibilmente anche .json per il riutilizz
 2. profilazione di terze aprti
 
 
-#### parti terze
+### documentazione
+
+1. Documentazione legale ufficiale italiana
+2. Documentazione legale ufficiale inglese
