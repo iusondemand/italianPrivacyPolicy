@@ -19,12 +19,12 @@ E' stata proposta la MIT perche' piu' ampia e permette di fare qualsiasi cosa.
 Il testo sara' composto di tre parti, possibilmente anche .json per il riutilizzo direttamente da github.
 
 #### informativa breve
-1) quando e' dovuta
-2) testo informativa in moduli
+1. quando e' dovuta
+2. testo informativa in moduli
 
 #### informativa estesa
-1) quando e' dovuta
-2) testo informativa in moduli
+1. quando e' dovuta
+2. testo informativa in moduli
 
 ##### parte generale
 ##### parte browser
@@ -32,8 +32,8 @@ Il testo sara' composto di tre parti, possibilmente anche .json per il riutilizz
 
 
 #### consensi, blocco, preventivo
-1) profilazione di prima parte
-2) profilazione di terze aprti
+1. profilazione di prima parte
+2. profilazione di terze aprti
 
 
 #### parti terze
