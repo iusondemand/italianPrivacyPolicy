@@ -14,7 +14,7 @@ Se vuoi farne parte, fai una richiesta in [questo ticket](https://github.com/Fat
 ## La licenza
 E' stata proposta la MIT perche' piu' ampia e permette di fare qualsiasi cosa.
 
-##Metodo
+## Metodo
 
 Il testo sara' composto di tre parti, possibilmente anche .json per il riutilizzo direttamente da github.
 
